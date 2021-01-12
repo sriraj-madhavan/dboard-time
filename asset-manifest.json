@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/dboard-time/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dboard-time/static/js/main.e3a8f743.chunk.js",
-    "main.js.map": "/dboard-time/static/js/main.e3a8f743.chunk.js.map",
-    "runtime-main.js": "/dboard-time/static/js/runtime-main.ffe1dd89.js",
-    "runtime-main.js.map": "/dboard-time/static/js/runtime-main.ffe1dd89.js.map",
-    "static/js/2.322d36f7.chunk.js": "/dboard-time/static/js/2.322d36f7.chunk.js",
-    "static/js/2.322d36f7.chunk.js.map": "/dboard-time/static/js/2.322d36f7.chunk.js.map",
-    "static/js/3.9b4e81d3.chunk.js": "/dboard-time/static/js/3.9b4e81d3.chunk.js",
-    "static/js/3.9b4e81d3.chunk.js.map": "/dboard-time/static/js/3.9b4e81d3.chunk.js.map",
-    "index.html": "/dboard-time/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dboard-time/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.322d36f7.chunk.js.LICENSE.txt": "/dboard-time/static/js/2.322d36f7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dboard-time/static/media/logo.6ce24c58.svg"
+    "main.css": "/sriraj-madhavan/dboard-time/static/css/main.2f865207.chunk.css",
+    "main.js": "/sriraj-madhavan/dboard-time/static/js/main.5574b2ad.chunk.js",
+    "main.js.map": "/sriraj-madhavan/dboard-time/static/js/main.5574b2ad.chunk.js.map",
+    "runtime-main.js": "/sriraj-madhavan/dboard-time/static/js/runtime-main.77f4fcdb.js",
+    "runtime-main.js.map": "/sriraj-madhavan/dboard-time/static/js/runtime-main.77f4fcdb.js.map",
+    "static/css/2.7bfd32cb.chunk.css": "/sriraj-madhavan/dboard-time/static/css/2.7bfd32cb.chunk.css",
+    "static/js/2.ddda3ebd.chunk.js": "/sriraj-madhavan/dboard-time/static/js/2.ddda3ebd.chunk.js",
+    "static/js/2.ddda3ebd.chunk.js.map": "/sriraj-madhavan/dboard-time/static/js/2.ddda3ebd.chunk.js.map",
+    "static/js/3.6d6c1bb4.chunk.js": "/sriraj-madhavan/dboard-time/static/js/3.6d6c1bb4.chunk.js",
+    "static/js/3.6d6c1bb4.chunk.js.map": "/sriraj-madhavan/dboard-time/static/js/3.6d6c1bb4.chunk.js.map",
+    "index.html": "/sriraj-madhavan/dboard-time/index.html",
+    "precache-manifest.d2a188928558eeaabcf5949ffa288eb0.js": "/sriraj-madhavan/dboard-time/precache-manifest.d2a188928558eeaabcf5949ffa288eb0.js",
+    "service-worker.js": "/sriraj-madhavan/dboard-time/service-worker.js",
+    "static/css/2.7bfd32cb.chunk.css.map": "/sriraj-madhavan/dboard-time/static/css/2.7bfd32cb.chunk.css.map",
+    "static/css/main.2f865207.chunk.css.map": "/sriraj-madhavan/dboard-time/static/css/main.2f865207.chunk.css.map",
+    "static/js/2.ddda3ebd.chunk.js.LICENSE.txt": "/sriraj-madhavan/dboard-time/static/js/2.ddda3ebd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffe1dd89.js",
-    "static/js/2.322d36f7.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e3a8f743.chunk.js"
+    "static/js/runtime-main.77f4fcdb.js",
+    "static/css/2.7bfd32cb.chunk.css",
+    "static/js/2.ddda3ebd.chunk.js",
+    "static/css/main.2f865207.chunk.css",
+    "static/js/main.5574b2ad.chunk.js"
   ]
 }
