@@ -1,7 +1,7 @@
 {
   "name": "react16",
   "version": "0.1.0",
-  "homepage": "https://github.io/sriraj-madhavan/dboard-time",
+  "homepage": "https://sriraj-madhavan.github.io/dboard-time",
   "private": true,
   "dependencies": {
     "@types/jest": "^26.0.20",
